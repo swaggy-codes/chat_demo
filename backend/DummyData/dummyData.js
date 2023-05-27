@@ -107,4 +107,4 @@ const dummyChat = [
   },
 ];
 
-module.exports = { dummyChat };
+module.exports = dummyChat;
