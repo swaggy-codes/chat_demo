@@ -14,4 +14,4 @@ app.get("/api/v1/chat", (req, res) => {
 
 // console.log(dummyChats);
 
-app.listen(5001, console.log("Server is running on PORT: 5001"));
+app.listen(5001, console.log("The server is running on PORT: 5001"));
